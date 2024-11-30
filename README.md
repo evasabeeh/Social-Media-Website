@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="public\ss.png" alt="View" width="500" height="250"/> 
+  <img src="assets\ss.png" alt="View" width="500" height="250"/> 
   <h3 align="center">Social Media Website</h3>
 
   <p align="center">
